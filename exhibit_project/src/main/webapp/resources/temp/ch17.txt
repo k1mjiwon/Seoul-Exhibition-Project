@@ -1,0 +1,6 @@
+http://localhost:8080/auth/kakao/callback
+
+Servlet이 DAO파일에 DB에 있는 데이터를 요청하고,
+Servlet이 get한 데이터를 jsp에 포함시켜서 
+사용자에게 보여줌
+UtilMgr: 프로그램에서 사용하는 함수(DB에 접근 객체도 아니고, form tag를 사용하여 서비스하는 함수도 아닐 경우의 애매한 함수들을 정리)
